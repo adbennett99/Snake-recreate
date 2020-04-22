@@ -5,4 +5,5 @@ For this project to work, a SQL database must be set up with a table titled "hig
 (You could of course change the table name in the code)
 
 The first column must be of type "Text"
+
 The second column must be of type "int"
